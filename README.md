@@ -38,6 +38,10 @@
 - ForegroundService
     사용자 Notification 생성
 
+## 와이어 프레임
+![와이어프레임](https://github.com/Kitjdeh/Kotlin_Coinmonitoring/assets/109275661/cd52ad4b-2dcb-481f-bec1-4c7373c7db85)
+
+
 
 ## 수행 역할
 - Model -View- ViewModel의 구조로 데이터 및 레이아웃 연동
