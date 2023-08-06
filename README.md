@@ -38,3 +38,18 @@ Workmanager
 ForegroundService
 - 사용자 Notification 생성
 
+
+## 수행 역할
+- Model -View- ViewModel의 구조로 데이터 및 레이아웃 연동
+
+- Foreground Service로 항상 떠있는 Notification 설정
+
+- Workmanager를 이용해 데이터 저장 예약으로 누적데이터 생성
+
+- Room과 Coroutine Flow, LiveData를 이용한 DB 설정 및 관리
+
+- Datastore를 이용하여 사용자의 재접속 여부 판별
+
+- DB호출에 필요한 쿼리들을 모은 DBRepository 설정으로 DAO 사용성 증가
+
+- Bottom Navigation 기능으로 하단 탭을 통한 페이지 이동 설정
